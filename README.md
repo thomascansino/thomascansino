@@ -7,19 +7,19 @@ I build SaaS products that solve everyday problems for my family and me—and I'
 
 ## 📊 Projects
 
-### [DogBoardingPH](https://dogboarding.ph) | SaaS Web App  
+### [DogBoardingPH](https://dogboarding.ph) | Lead Full Stack Dev  
 Connecting dog owners with trusted sitters for seamless and reliable pet care.
 - Developed a full-stack platform enabling dog owners to find and book reliable sitters.
 - Built REST API for profile and booking management (pending, confirmed, completed).
 - Implemented WebSocket API for real-time messaging with text and image support.
 
-### [Contacts Manager](https://contactsmanager.thomascansino.com) | SaaS Web App  
+### [Contacts Manager](https://contactsmanager.thomascansino.com) | Lead Full Stack Dev  
 Simplify and secure contact management for better organization.
 - Developed full CRUD functionality with real-time updates on interactions.
 - Enabled filtering and sorting by recent, starred, or archived status.
 - Implemented secure JWT-based authentication for user-specific contact lists.
 
-### [Task Manager](https://taskmanager.thomascansino.com) | SaaS Web App  
+### [Task Manager](https://taskmanager.thomascansino.com) | Lead Full Stack Dev  
 Plan, prioritize, and track daily tasks effortlessly.
 - Built full CRUD features for tasks linked to calendar dates.
 - Integrated a dynamic calendar view for efficient task organization.
