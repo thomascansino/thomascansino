@@ -31,12 +31,12 @@ Plan, prioritize, and track daily tasks effortlessly.
 ## 🎓 Education
 
 **freeCodeCamp** (January 2024)
-*Full Stack Development Certificate*  
+*Full Stack Development Certificate*
 - Courses: Frontend Development, Algorithms & Data Structures, Responsive Web Design, SQL/NoSQL Databases, Backend Development
 
 **University of Santo Tomas** (Jun 2023)
 *Bachelor of Science in Engineering*  
-- **Cum Laude Graduate**  
+- **Cum Laude Graduate**
 
 ---
 
