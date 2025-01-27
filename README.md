@@ -7,7 +7,7 @@
 
 ## 👋 About Me  
 
-Hi there, I'm Thomas, a full-stack developer. I have 1 year experience in building, scaling, & maintaining SAAS products, and I’m looking forward to bring my skills to your team.
+Hi there, I'm Thomas, a full-stack developer. I have 1 year experience in building & maintaining SAAS products, and I’m looking forward to bring my skills to your team.
 
 The latest product I've worked on as a lead full-stack developer is DogBoardingPH, an app that connects pet owners with dog sitters to find reliable care for their pets while they're away.
 
