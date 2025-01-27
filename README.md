@@ -1,8 +1,7 @@
 # Thomas Cansino  
 
 **Full Stack Developer**  
-🌐 [thomascansino.com](https://thomascansino.com) | 📧 thomas.cansino@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Cansino-blue?logo=linkedin)](https://linkedin.com/in/thomascansino)  
+🌐 [thomascansino.com](https://thomascansino.com) | 📧 thomas.cansino@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Cansino-blue?logo=linkedin)](https://linkedin.com/in/thomascansino)  
 
 ---
 
