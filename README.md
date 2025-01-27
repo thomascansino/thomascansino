@@ -7,7 +7,11 @@
 
 ## 👋 About Me  
 
-Hi there! I'm Thomas Cansino, a Full Stack Developer with experience working with both local and international clients to develop tailored SaaS products and full-stack applications. My expertise lies in optimizing backend performance, using clean architecture to create scalable and maintainable codebases, and recommending cost-effective technologies to improve project efficiency.  
+Hi there, I'm Thomas, a full-stack developer. I have 1 year experience in building, scaling, & maintaining SAAS products, and I’m looking forward to bring my skills to your team.
+
+The latest product I've worked on as a lead full-stack developer is DogBoardingPH, an app that connects pet owners with dog sitters to find reliable care for their pets while they're away.
+
+I’ve also worked as a lead full-stack developer on a contact management app for organizing connections and a task management app to help plan and do tasks efficiently.
 
 ---
 
