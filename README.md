@@ -1,7 +1,7 @@
 # Hi, I'm Thomas Cansino 👋
 
-**Civil Engineer turned Full-Stack Developer (MERN Stack)**  
-I build SaaS products that solve everyday problems for my family and me—and I'm excited to bring my problem-solving skills to your team!
+**Full-Stack Developer**
+I build and maintain SAAS products. I'm looking forward to joining your team!
 
 ---
 
@@ -29,22 +29,13 @@ Plan, prioritize, and track daily tasks effortlessly.
 
 ## 🎓 Education
 
-**freeCodeCamp** (Apr 2024 – Sept 2024)  
+**freeCodeCamp** (January 2024)
 *Full Stack Development Certificate*  
 - Courses: Frontend Development, Algorithms & Data Structures, Responsive Web Design, SQL/NoSQL Databases, Backend Development
 
-**University of Santo Tomas** (Jun 2023)  
-*Bachelor of Science in Civil Engineering*  
-- Graduated **Cum Laude**  
-- Civil Engineer Board Passer (**Nov 2023**)
-
----
-
-## 📚 Leadership
-
-**thomascansino | YouTube | dev.to | GitHub | X (Twitter) | LinkedIn** (Apr 2024 – Present)  
-- Wrote blogs on dev.to (5k+ reads) and recorded videos on YouTube (10k+ views) to document my journey into full-stack web development.  
-- Published 65+ repositories on GitHub, building projects to strengthen web development skills.
+**University of Santo Tomas** (Jun 2023)
+*Bachelor of Science in Engineering*  
+- **Cum Laude Graduate**  
 
 ---
 
@@ -53,9 +44,6 @@ Plan, prioritize, and track daily tasks effortlessly.
 - 🌐 [Portfolio](https://thomascansino.com)
 - 💻 [GitHub](https://github.com/thomascansino)
 - 👤 [LinkedIn](https://linkedin.com/in/thomascansino)
-- 📝 [Dev.to](https://dev.to/thomascansino)
-- 🎥 [YouTube](https://youtube.com/@thomascansino)
-- 🕊️ [Twitter/X](https://twitter.com/thomascansino)
 
 ---
 
