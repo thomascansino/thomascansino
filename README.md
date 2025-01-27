@@ -19,7 +19,7 @@ I’ve also worked as a lead full-stack developer on a contact management app fo
 
 ### Full Stack Developer (Freelancer)  
 **Jan 2024 – Present | Remote**  
-- Collaborated with clients worldwide to create SaaS products tailored to their business needs.  
+- Collaborated with clients worldwide to create SAAS products tailored to their business needs.  
 - Optimized backend code and implemented clean architecture, resulting in scalable and maintainable applications.  
 - Recommended alternative technologies, reducing development overhead costs by approximately **15% to 20%**.  
 
