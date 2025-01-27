@@ -1,52 +1,69 @@
-# Hi, I'm Thomas Cansino 👋
+# Thomas Cansino  
 
-**Full-Stack Developer**
-
-I build and maintain SAAS products. I'm looking forward to joining your team!
-
----
-
-## 📊 Projects
-
-### [DogBoardingPH](https://dogboarding.ph) | Lead Full Stack Dev  
-Connecting dog owners with trusted sitters for seamless and reliable pet care.
-- Developed a full-stack platform enabling dog owners to find and book reliable sitters.
-- Built REST API for profile and booking management (pending, confirmed, completed).
-- Implemented WebSocket API for real-time messaging with text and image support.
-
-### [Contacts Manager](https://contactsmanager.thomascansino.com) | Lead Full Stack Dev  
-Simplify and secure contact management for better organization.
-- Developed full CRUD functionality with real-time updates on interactions.
-- Enabled filtering and sorting by recent, starred, or archived status.
-- Implemented secure JWT-based authentication for user-specific contact lists.
-
-### [Task Manager](https://taskmanager.thomascansino.com) | Lead Full Stack Dev  
-Plan, prioritize, and track daily tasks effortlessly.
-- Built full CRUD features for tasks linked to calendar dates.
-- Integrated a dynamic calendar view for efficient task organization.
-- Secured user data with JWT-based authentication for personalized task management.
+**Full Stack Developer**  
+📍 Metro Manila | 🌐 [thomascansino.com](https://thomascansino.com) | 📧 thomas.cansino@gmail.com | 📱 0951-618-6527  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas%20Cansino-blue?logo=linkedin)](https://linkedin.com/in/thomascansino)  
 
 ---
 
-## 🎓 Education
+## 👋 About Me  
 
-**freeCodeCamp** (January 2024)
-*Full Stack Development Certificate*
-- Courses: Frontend Development, Algorithms & Data Structures, Responsive Web Design, SQL/NoSQL Databases, Backend Development
-
-**University of Santo Tomas** (Jun 2023)
-*Bachelor of Science in Engineering*  
-- **Cum Laude Graduate**
+Hi there! I'm Thomas Cansino, a Full Stack Developer with experience working with both local and international clients to develop tailored SaaS products and full-stack applications. My expertise lies in optimizing backend performance, using clean architecture to create scalable and maintainable codebases, and recommending cost-effective technologies to improve project efficiency.  
 
 ---
 
-## 💪 Let's Connect!
+## 💼 Work Experience  
 
-- 🌐 [Portfolio](https://thomascansino.com)
-- 💻 [GitHub](https://github.com/thomascansino)
-- 👤 [LinkedIn](https://linkedin.com/in/thomascansino)
+### Full Stack Developer (Freelancer)  
+**Jan 2024 – Present | Remote**  
+- Collaborated with clients worldwide to create SaaS products tailored to their business needs.  
+- Optimized backend code and implemented clean architecture, resulting in scalable and maintainable applications.  
+- Recommended alternative technologies, reducing development overhead costs by approximately **15% to 20%**.  
 
 ---
 
-*Open to collaborations and exciting new opportunities!*
+## 🛠️ Projects  
 
+### [DogBoardingPH](https://dogboarding.ph)  
+**Role**: Lead Full Stack Developer  
+- Designed and developed a platform connecting dog owners with trusted sitters for reliable dog boarding services.  
+- Built a REST API to manage profiles and booking statuses with real-time updates and tracking capabilities.  
+- Implemented a WebSocket API for instant messaging with support for text and images.  
+
+### [Contacts Manager](https://contactsmanager.thomascansino.com)  
+**Role**: Lead Full Stack Developer  
+- Created a tool to organize and manage contacts with full CRUD functionality.  
+- Enabled real-time updates for interaction tracking.  
+- Added secure JWT-based authentication for personalized contact management.  
+
+### [Task Manager](https://taskmanager.thomascansino.com)  
+**Role**: Lead Full Stack Developer  
+- Built an app to help users plan, organize, and track tasks efficiently.  
+- Integrated full CRUD features for task management, linked to calendar dates.  
+- Secured user accounts with JWT-based authentication for private task lists.  
+
+---
+
+## 🎓 Education  
+
+- **freeCodeCamp**  
+  Full Stack Development Certificate – Web Development  
+  - Frontend Development, Algorithms, Data Structures, Responsive Web Design, SQL/NoSQL Databases, Backend Development  
+
+- **University of Santo Tomas**  
+  Bachelor of Science in Engineering  
+  - **Cum Laude Graduate**  
+
+---
+
+## 🧑‍💻 Skills  
+
+- **Languages & Frameworks**: TypeScript, Python, Node.js, React, Express.js, JavaScript, HTML  
+- **Databases & Tools**: MySQL, PostgreSQL, MongoDB, Supabase, Docker, Git, Figma  
+- **Libraries & Styling**: CSS, Tailwind CSS, Mantine UI  
+
+---
+
+## 📫 Get in Touch  
+
+Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/thomascansino) or drop me an email at **thomas.cansino@gmail.com**. Let's build something awesome together!  
