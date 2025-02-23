@@ -7,7 +7,7 @@
 
 ## 👋 About Me  
 
-Hi there, I'm Thomas, a full-stack developer. I have 5 years of experience in building websites and SAAS products for local and international clients. I’m looking forward to bringing my skills to your team.
+Hi there, I'm Thomas, a full-stack developer with experience in building websites and SAAS products. I’m looking forward to bringing my skills to your team.
 
 The latest product I've worked on as a lead full-stack developer is DogBoardingPH, an app that connects pet owners with dog sitters to find reliable care for their pets while they're away.
 
@@ -17,11 +17,8 @@ I’ve also worked as a lead full-stack developer on a contact management app fo
 
 ## 💼 Work Experience  
 
-### Full Stack Developer (Freelancer)  
-**Jan 2020 – Present | Remote**  
-- Worked with local and international clients to develop websites and SAAS products for their business needs.  
-- Optimized backend code and implemented clean architecture, resulting in scalable and maintainable applications.  
-- Recommended alternative technologies, reducing development overhead costs by approximately **15% to 20%**.  
+### Lead Full Stack Developer (Freelancer)  
+**Feb 2025 – Present | Remote**  
 
 ---
 
