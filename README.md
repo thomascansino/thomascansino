@@ -17,7 +17,7 @@ I’ve also worked as a lead full-stack developer on a contact management app fo
 
 ## 💼 Work Experience  
 
-### Lead Full Stack Developer (Freelancer)  
+### Senior Full Stack Developer (Freelancer)  
 **Feb 2025 – Present | Remote**  
 
 ---
